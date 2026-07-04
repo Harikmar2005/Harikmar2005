@@ -10,7 +10,7 @@
 ```
 
 ### `> whoami`
-### root@sairam:~$ SOC Analyst in training | Cybersecurity Enthusiast | CSE '26
+ Cybersecurity Enthusiast | CSE '28
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Breaching+systems...+legally.;Blue+Team+by+day%2C+curious+by+night.;SOC+%7C+SIEM+%7C+Threat+Hunting;sudo+access%3A+granted)](https://git.io/typing-svg)
 
@@ -25,7 +25,7 @@ $ cat about_me.txt
 ```
 [+] Name       : Harikumar E (aka Zoro)
 [+] Role       : B.E. CSE (Cybersecurity), Sri Sairam Institute of Technology
-[+] Status     : Graduating 2026 | Hunting for SOC Analyst / Cybersecurity roles
+[+] Status     : Graduating 2028 | Hunting for SOC Analyst / Cybersecurity roles
 [+] Focus      : Blue Team Ops, SIEM, Log Monitoring, Threat Detection
 [+] Portfolio  : https://my-portfolio-liart-rho-18.vercel.app/
 [+] Location   : Chennai, India
