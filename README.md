@@ -1,88 +1,106 @@
 <div align="center">
 
 ```
-██╗  ██╗ █████╗ ██████╗ ██╗██╗  ██╗██╗   ██╗███╗   ███╗ █████╗ ██████╗ 
-██║  ██║██╔══██╗██╔══██╗██║██║ ██╔╝██║   ██║████╗ ████║██╔══██╗██╔══██╗
-███████║███████║██████╔╝██║█████╔╝ ██║   ██║██╔████╔██║███████║██████╔╝
-██╔══██║██╔══██║██╔══██╗██║██╔═██╗ ██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗
-██║  ██║██║  ██║██║  ██║██║██║  ██╗╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+ ██████╗ ███╗   ██╗███████╗    ██████╗ ██╗███████╗ ██████╗███████╗
+██╔═══██╗████╗  ██║██╔════╝    ██╔══██╗██║██╔════╝██╔════╝██╔════╝
+██║   ██║██╔██╗ ██║█████╗      ██████╔╝██║█████╗  ██║     █████╗  
+██║   ██║██║╚██╗██║██╔══╝      ██╔═══╝ ██║██╔══╝  ██║     ██╔══╝  
+╚██████╔╝██║ ╚████║███████╗    ██║     ██║███████╗╚██████╗███████╗
+ ╚═════╝ ╚═╝  ╚═══╝╚══════╝    ╚═╝     ╚═╝╚══════╝ ╚═════╝╚══════╝
 ```
 
-### `> whoami`
-### root@sairam:~$ SOC Analyst in training | Cybersecurity Enthusiast | CSE '26
+### ⚔️ Harikumar E — a.k.a. **Zoro** ⚔️
+### *"I'll become the world's greatest Security Analyst — even if I have to cut through every firewall to get there."*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Breaching+systems...+legally.;Blue+Team+by+day%2C+curious+by+night.;SOC+%7C+SIEM+%7C+Threat+Hunting;sudo+access%3A+granted)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pirata+One&size=24&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=Bounty%3A+Aspiring+SOC+Analyst;First+Mate+of+the+Blue+Team;Wields+3+Swords%3A+SIEM%2C+Splunk%2C+Wireshark;Sailing+the+Grand+Line+of+Cybersecurity)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-```bash
-$ cat about_me.txt
-```
+## 🏴‍☠️ Wanted Poster
 
 ```
-[+] Name       : Harikumar E (aka Zoro)
-[+] Role       : B.E. CSE (Cybersecurity), Sri Sairam Institute of Technology
-[+] Status     : Graduating 2026 | Hunting for SOC Analyst / Cybersecurity roles
-[+] Focus      : Blue Team Ops, SIEM, Log Monitoring, Threat Detection
-[+] Portfolio  : https://my-portfolio-liart-rho-18.vercel.app/
-[+] Location   : Chennai, India
+┌─────────────────────────────────────────┐
+│               W A N T E D                │
+│                                           │
+│              HARIKUMAR "ZORO"            │
+│                                           │
+│         Bounty: ₿ ENTRY-LEVEL SOC        │
+│                                           │
+│   For crimes against unpatched systems   │
+│      and unmonitored network traffic     │
+│                                           │
+│        Sri Sairam Pirates | 2026         │
+└─────────────────────────────────────────┘
 ```
 
 ---
 
-### `> ls -la arsenal/`
+## ⚓ Log Pose — Crew Info
+
+```
+[ Crew Role ]    Security Swordsman (SOC Analyst in training)
+[ Ship ]         B.E. CSE - Cybersecurity, Sri Sairam Institute of Technology
+[ Home Port ]    Chennai, India
+[ Sailing To ]   Entry-Level SOC Analyst / Cybersecurity Roles
+[ Devil Fruit ]  None — pure skill, sharpened daily
+[ Treasure Map ] https://my-portfolio-liart-rho-18.vercel.app/
+```
+
+---
+
+## 🗡️ Santoryu — Three Sword Style (Arsenal)
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=39FF14)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=postgresql&logoColor=39FF14)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=39FF14)
-![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java&logoColor=39FF14)
-![AWS](https://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=39FF14)
-![Splunk](https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=39FF14)
-![Wireshark](https://img.shields.io/badge/-Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=39FF14)
-![Nmap](https://img.shields.io/badge/-Nmap-000000?style=for-the-badge&logo=nmap&logoColor=39FF14)
-![BurpSuite](https://img.shields.io/badge/-Burp%20Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=39FF14)
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=39FF14)
+![Python](https://img.shields.io/badge/-Python-1a1a2e?style=for-the-badge&logo=python&logoColor=D4AF37)
+![SQL](https://img.shields.io/badge/-SQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=D4AF37)
+![Linux](https://img.shields.io/badge/-Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=D4AF37)
+![Java](https://img.shields.io/badge/-Java-1a1a2e?style=for-the-badge&logo=java&logoColor=D4AF37)
+![AWS](https://img.shields.io/badge/-AWS-1a1a2e?style=for-the-badge&logo=amazonaws&logoColor=D4AF37)
+![Splunk](https://img.shields.io/badge/-Splunk-1a1a2e?style=for-the-badge&logo=splunk&logoColor=D4AF37)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1a1a2e?style=for-the-badge&logo=wireshark&logoColor=D4AF37)
+![Nmap](https://img.shields.io/badge/-Nmap-1a1a2e?style=for-the-badge&logo=nmap&logoColor=D4AF37)
+![BurpSuite](https://img.shields.io/badge/-Burp%20Suite-1a1a2e?style=for-the-badge&logo=burpsuite&logoColor=D4AF37)
+![Git](https://img.shields.io/badge/-Git-1a1a2e?style=for-the-badge&logo=git&logoColor=D4AF37)
 
 </div>
 
 ---
 
-### `> ./run_diagnostics.sh --github-stats`
+## 📜 Voyage Log — Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Harikmar2005&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=00FF41" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harikmar2005&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Harikmar2005&show_icons=true&theme=vue-dark&hide_border=true&bg_color=1a1a2e&title_color=D4AF37&icon_color=D4AF37&text_color=e0e0e0" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harikmar2005&theme=vue-dark&hide_border=true&background=1a1a2e&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harikmar2005&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=00FF41" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harikmar2005&layout=compact&theme=vue-dark&hide_border=true&bg_color=1a1a2e&title_color=D4AF37&text_color=e0e0e0" width="48%" />
 
 </div>
 
 ---
 
-### `> cat manifest.log`
+## 🧭 Adventure Log
 
 ```
-[SYSTEM]   Certifications & training in progress: ISO 27001 Awareness
-[SYSTEM]   Recently completed: HENNGE Challenge (Mission 3 — Auth via TOTP/HMAC-SHA-512)
-[SYSTEM]   Building: Cloud-based SIEM / log monitor (AWS Free Tier + CloudWatch + SNS)
-[SYSTEM]   Status:  Actively seeking SOC Analyst opportunities
+⚓ Conquered the HENNGE Grand Line Challenge — Mission 3 cleared
+   (Custom TOTP / HMAC-SHA-512 authentication, forged in Python)
+⚓ Forging a Cloud SIEM Log Den — AWS Free Tier + CloudWatch + SNS alerts
+⚓ Charting course toward: ISO 27001 waters
+⚓ Currently docked at: recruiter inboxes, awaiting a new crew
 ```
 
 ---
 
-### `> netstat --connections`
+## 🏝️ Where to Find This Ship
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=39FF14)](https://my-portfolio-liart-rho-18.vercel.app/)
-[![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/Harikmar2005)
-[![Email](https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:elangoharikumar@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Treasure%20Map-1a1a2e?style=for-the-badge&logo=vercel&logoColor=D4AF37)](https://my-portfolio-liart-rho-18.vercel.app/)
+[![GitHub](https://img.shields.io/badge/-GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Harikmar2005)
+[![Email](https://img.shields.io/badge/-Den%20Den%20Mushi-1a1a2e?style=for-the-badge&logo=gmail&logoColor=D4AF37)](mailto:elangoharikumar@gmail.com)
 
 </div>
 
@@ -90,10 +108,8 @@ $ cat about_me.txt
 
 <div align="center">
 
-```
-> connection terminated. session logged. stay encrypted.
-```
+*"It's not the age that matters, it's the skill." — Zoro*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Harikmar2005&color=39FF14&style=flat-square&label=SESSIONS+TRACED)
+![Profile Views](https://komarev.com/ghpvc/?username=Harikmar2005&color=D4AF37&style=flat-square&label=CREW+MEMBERS+SPOTTED)
 
 </div>
